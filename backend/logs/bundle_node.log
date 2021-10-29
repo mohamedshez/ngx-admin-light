@@ -1,0 +1,13 @@
+{"message":"Connecting to MongoDB client...","level":"info"}
+{"message":"Seed Data","level":"info"}
+{"message":"Server start listening port: 3001","level":"info"}
+{"message":"MongoDB client has been successfully created","level":"info"}
+{"message":"Seed Data","level":"info"}
+{"message":"Seed Users Done","level":"info"}
+{"message":"Connecting to MongoDB client...","level":"info"}
+{"message":"Seed Data","level":"info"}
+{"message":"Server start listening port: 3001","level":"info"}
+{"message":"MongoDB client has been successfully created","level":"info"}
+{"message":"Hello shez1461,\nWe have received password reset request. To do this, please proceed at http://localhost:4200/#/auth/reset-password?reset_password_token=4104f54888d0c51f8f17c2d440e1fc4d80ece7397d2fc62713fbca9782d68e4cfdd15b4e7430b680801b055c7de5ad34ff5add3ade9e534bbd22b4347cc53751\nIf it wasn't you, take no action or contact support.\n\nThank you,\nSupport team.","level":"info"}
+{"message":"Hello shez1461,\nWe have received password reset request. To do this, please proceed at http://localhost:4200/#/auth/reset-password?reset_password_token=4104f54888d0c51f8f17c2d440e1fc4d80ece7397d2fc62713fbca9782d68e4cfdd15b4e7430b680801b055c7de5ad348fb28b609c65e56e4b22a994093bc116\nIf it wasn't you, take no action or contact support.\n\nThank you,\nSupport team.","level":"info"}
+{"message":"Hello shez1461,\nWe have received password reset request. To do this, please proceed at http://localhost:4200/#/auth/reset-password?reset_password_token=4104f54888d0c51f8f17c2d440e1fc4d80ece7397d2fc62713fbca9782d68e4cfdd15b4e7430b680801b055c7de5ad340afb246a70535270a42943021ae8706b\nIf it wasn't you, take no action or contact support.\n\nThank you,\nSupport team.","level":"info"}
