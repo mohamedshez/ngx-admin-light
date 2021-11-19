@@ -102,4 +102,4 @@ Frontend part is based on the latest ngx-admin dashboard template, but with edit
 
 ## Support
 
-Please post issues in [Bundle Support Issue Tracker](https://github.com/shez1461/ngx-admin-light/issues)
+Please post issues in [Bundle Support Issue Tracker]
